@@ -7,10 +7,10 @@ version: 2
 updates:
   - package-ecosystem: "github-actions"
     directory: "/"
-    #schedule:
-    #  interval: "never"
+    schedule:
+      interval: "never"
 
   - package-ecosystem: "pip"
     directory: "/"
-    #schedule:
-    #  interval: "never"
+    schedule:
+      interval: "never"

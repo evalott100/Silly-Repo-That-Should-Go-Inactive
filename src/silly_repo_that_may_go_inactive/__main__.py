@@ -11,6 +11,6 @@ def main(args=None):
     args = parser.parse_args(args)
 
 
-# test with: python -m python3_pip_skeleton
+# test with: python -m silly_repo_that_may_go_inactive
 if __name__ == "__main__":
     main()

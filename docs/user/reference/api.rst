@@ -1,14 +1,14 @@
 API
 ===
 
-.. automodule:: python3_pip_skeleton
+.. automodule:: silly_repo_that_may_go_inactive
 
-    ``python3_pip_skeleton``
+    ``silly_repo_that_may_go_inactive``
     -----------------------------------
 
-This is the internal API reference for python3_pip_skeleton
+This is the internal API reference for silly_repo_that_may_go_inactive
 
-.. data:: python3_pip_skeleton.__version__
+.. data:: silly_repo_that_may_go_inactive.__version__
     :type: str
 
     Version number as calculated by https://github.com/pypa/setuptools_scm
